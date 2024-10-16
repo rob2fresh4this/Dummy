@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grijr\\VScode\\Experment\\Dummy\\Dummy.csproj",
+      "projectUniqueName": "C:\\Users\\grijr\\VScode\\Experment\\0Copys\\Dummy\\Dummy.csproj",
       "projectName": "Dummy",
-      "projectPath": "C:\\Users\\grijr\\VScode\\Experment\\Dummy\\Dummy.csproj",
+      "projectPath": "C:\\Users\\grijr\\VScode\\Experment\\0Copys\\Dummy\\Dummy.csproj",
       "packagesPath": "C:\\Users\\grijr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grijr\\VScode\\Experment\\Dummy\\obj\\",
+      "outputPath": "C:\\Users\\grijr\\VScode\\Experment\\0Copys\\Dummy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grijr\\AppData\\Roaming\\NuGet\\NuGet.Config"
